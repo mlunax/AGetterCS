@@ -4,6 +4,8 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>netcoreapp2.0</TargetFramework>
         <LangVersion>4</LangVersion>
+        <AssemblyName>AGetter</AssemblyName>
+        <RootNamespace>AGetter</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

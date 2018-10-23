@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Getter", "A_Getter.csproj", "{2B8CAF5F-BADF-462E-82A9-C571DBE26B66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGetter", "AGetter.csproj", "{2B8CAF5F-BADF-462E-82A9-C571DBE26B66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

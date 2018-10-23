@@ -1,10 +1,10 @@
-# A_Getter(CS) in C#
+# AGetter(CS) in C#
 
 ## Description
 The program for getting links from specific websites. A very WIP version.
 
 ## Usage:
-> dotnet ./A_Getter.dll [number of episodes] [link (in quotes)] (special eps?)
+> dotnet ./AGetter.dll [number of episodes] [link (in quotes)] (special eps?)
 
 #### Supports for now:
 
@@ -14,10 +14,10 @@ The program for getting links from specific websites. A very WIP version.
 ### Project use: 
 
 >.NET Core 2.0  
-> HTML Agility Pack
+> HTML Agility Pack 1.8.9
 
 
 ## Todos
 
-    [ ] Add more websites
-    [ ] More flexible usage
+     * Add more websites
+     * More flexible usage

@@ -1,7 +1,6 @@
-using System;
 using HtmlAgilityPack;
 
-namespace A_Getter.Okami_Subs
+namespace AGetter.Okami_Subs
 {
     public static class GettingEp
     {

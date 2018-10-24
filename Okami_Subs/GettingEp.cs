@@ -1,6 +1,6 @@
 using HtmlAgilityPack;
 
-namespace AGetter.Okami_Subs
+namespace AScrapper.Okami_Subs
 {
     public static class GettingEp
     {

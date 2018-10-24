@@ -1,7 +1,7 @@
 ﻿using System;
 using AGetter.Okami_Subs;
 
-namespace AGetter
+namespace AScrapper
 {
     class Program
     {

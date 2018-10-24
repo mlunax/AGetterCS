@@ -1,5 +1,5 @@
 ﻿using System;
-using AGetter.Okami_Subs;
+using AScrapper.Okami_Subs;
 
 namespace AScrapper
 {

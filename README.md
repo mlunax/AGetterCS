@@ -1,10 +1,11 @@
-# AGetter(CS) in C#
+# AScrapper(CS) in C#
 
 ## Description
 The program for getting links from specific websites. A very WIP version.
 
 ## Usage:
-> dotnet ./AGetter.dll [number of episodes] [link (in quotes)] (special eps?)
+> dotnet ./AScrapper.dll [number of episodes] [link (in quotes)] 
+(special eps?)
 
 #### Supports for now:
 

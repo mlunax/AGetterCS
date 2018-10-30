@@ -7,7 +7,7 @@ The program for getting links from specific websites. A very WIP version.
 > dotnet ./AScrapper.dll [number of episodes] [link (in quotes)] 
 (special eps?)
 
-#### Supports for now:
+#### Supports:
 
  * http://okami-subs.pl/
 

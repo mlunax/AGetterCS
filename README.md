@@ -1,5 +1,7 @@
 # AScrapper(CS) in C#
 
+# NOT WORKING!!!
+
 ## Description
 The program for getting links from specific websites. A very WIP version.
 
